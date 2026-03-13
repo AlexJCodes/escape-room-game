@@ -88,7 +88,7 @@ In a future where cities collapsed and the jungle reclaimed the world, one struc
 | Pioneer                  | Role / Profile                                                                                                                    |
 | :----------------------- | :-------------------------------------------------------------------------------------------------------------------------------- |
 | **Alexander Johansson**  | [![GitHub](https://img.shields.io/badge/GitHub-AlexJCodes-181717?style=flat&logo=github)](https://github.com/AlexJCodes)          |
-| **Alexandra Henriksson** | [![GitHub](https://img.shields.io/badge/GitHub-AlexandraH-181717?style=flat&logo=github)](https://github.com/AlexandraHenriksson) |
+| **Alexandra Henriksson** | [![GitHub](https://img.shields.io/badge/GitHub-xAlexCode-181717?style=flat&logo=github)](https://github.com/xAlexCode) |
 | **Emil Lychnell**        | [![GitHub](https://img.shields.io/badge/GitHub-elychnell-181717?style=flat&logo=github)](https://github.com/elychnell)            |
 | **Louise Sverkström**    | [![GitHub](https://img.shields.io/badge/GitHub-LolloLicense-181717?style=flat&logo=github)](https://github.com/LolloLicense)      |
 | **Minai Karlsson**       | [![GitHub](https://img.shields.io/badge/GitHub-minza--42-181717?style=flat&logo=github)](https://github.com/minza-42)             |
