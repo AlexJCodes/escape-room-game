@@ -1,3 +1,50 @@
+# 🎮 Escape Room – Group Project
+
+This project was built as part of a team during my frontend studies.
+
+---
+
+## 👨‍💻 My contribution
+
+I worked on several core parts of the application, combining game logic, user interaction and system features.
+
+### 🔥 Fire Room
+- Built level-based game logic using TypeScript  
+- Implemented input system and validation  
+- Created user feedback (animations, success/fail states)  
+
+### 🔊 Audio System
+- Implemented background music and sound effects  
+- Integrated audio handling across different game states  
+- Focused on enhancing user experience through sound  
+
+### 🏆 High Score System
+- Developed logic for storing and displaying high scores  
+- Worked with data persistence (localStorage)  
+- Structured score handling across the application  
+
+### 🛠️ Dev Cheat Console
+- Built a debug/cheat system for testing gameplay  
+- Enabled faster development and troubleshooting  
+- Used for simulating states and validating logic  
+
+### ⚙️ General
+- Worked with state management and application flow  
+- Contributed to structure and overall functionality  
+---
+
+## 🧠 What I learned
+
+- Structuring a larger TypeScript project  
+- Working with state and game logic  
+- Building interactive UI with user feedback  
+- Collaborating in a team using agile workflow  
+- Writing cleaner and more maintainable code
+- Working with multiple systems in the same application (audio, scoring, logic)  
+- Building tools to improve development workflow (debug/cheat console)    
+
+---
+
 # The Temple of Five
 
 ![The Temple of Five Startpage](/public/images/startpage.png)
